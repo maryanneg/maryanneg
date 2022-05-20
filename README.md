@@ -1,16 +1,21 @@
-### Hi there 👋
+Olá! sou a Maryanne 👋
 
-<!--
-**maryanneg/maryanneg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Estudante de Analise e Desenvolvimento de Sistemas 
+- 📫 Contato: maryannegomesv@gmail.com 
+##
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=maryanneg&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+##
+<div>
+  <a href ="https://www.linkedin.com/in/maryannegomes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank>
+    </a>
+    <img src="" width="100" height="30"/>
+     <a href ="https://instagram.com/xmaryanne" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank>
+    </a>
+    <img src="" width="100" height="30"/>
+   <a href ="https://www.behance.net/maryannev" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank>
+    </a>
+    <img src="" width="100" height="30"/>
+ </div>
+ <p align="right">
+    <img windth="100" height="150" src="https://moldura-pop.s3.sa-east-1.amazonaws.com/imagens-proprietarias/99921751-JVMIYtN_08UAGwdvtM5bP7lLgMtGfpgJ-cropped-3x4-browser.png")</p>
+  
