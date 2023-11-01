@@ -1,7 +1,7 @@
 Olá! sou a Maryanne 👋
 
 - 💻 Estudante de Analise e Desenvolvimento de Sistemas 
-- 📫 Contato: maryannegomesv@gmail.com 
+- 📫 Contato: maryannegdev@gmail.com 
 ##
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=maryanneg&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ##
